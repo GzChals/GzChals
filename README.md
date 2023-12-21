@@ -1,4 +1,6 @@
 ### Hi there 👋
+🌱 I’m currently learning how to deal with my dog
+📫 How to reach me: you can't 🤪
 
 <!--
 **GzChals/GzChals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
